@@ -52,7 +52,7 @@ const cosmetics = [
       name: "Маска для лица GlamGlow SuperMud",
       price: 4500,
       quantity: 7,
-      image: "https://kosmetista.ru/uploads/images/13/23/66/2022/07/31/f83fdf_lbox.jpg",
+      image: "https://kosmetista.ru/uploads/images/00/69/09/2020/08/21/7c86dd_lbox.jpg",
       comment: "Глубоко очищает поры, подходит для жирной кожи.",
     },
     {
