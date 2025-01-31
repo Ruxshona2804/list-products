@@ -52,7 +52,7 @@ const cosmetics = [
       name: "Маска для лица GlamGlow SuperMud",
       price: 4500,
       quantity: 7,
-      image: "https://i.malva-parfume.ua/detail-maxi/39/74/3974ad50237a039ab37fee76394d10be.jpggit  ",
+      image: "https://i.malva-parfume.ua/detail-maxi/39/74/3974ad50237a039ab37fee76394d10be.jpg  ",
       comment: "Глубоко очищает поры, подходит для жирной кожи.",
     },
     {
